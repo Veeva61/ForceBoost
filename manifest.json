@@ -1,0 +1,9 @@
+{
+  "name": "ForceBoost",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/Veeva61/ForceBoost",
+  "description": "Force grab pulls items to your hand x10 harder and x3 faster. Great with GiantPlayer.",
+  "dependencies": [
+    "LavaGang-MelonLoader-0.7.3"
+  ]
+}
